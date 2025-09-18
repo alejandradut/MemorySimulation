@@ -1,0 +1,43 @@
+# Compiled executables
+memory_simulation
+*.exe
+*.out
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.dSYM/
+*.su
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Xcode (since you have .xcodeproj files)
+*.xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+build/
+DerivedData/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+
+# Output files
+output.txt
+results.txt
+*.log
+
+# Temporary files
+*.tmp
+*.temp
